@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Greg! Thanks for checking out my GitHub profile. I work in Product Management and have with a focus on Developer Experience and digital transformation. I always welcome interesting conversation and collaboration, so feel free to reach out! 
+My name is Greg! Thanks for checking out my GitHub profile. I work in Product Management with a focus on Developer Experience and digital transformation. I always welcome interesting conversation and collaboration, so feel free to reach out! 
 
 <!--- 🔭 I’m currently working on ...
 
