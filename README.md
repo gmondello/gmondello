@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Greg. I work in Product Management and am passionate about Developer Experience and learning. I always welcome interesting conversation and enjoy making new connections, so I'd love for you to reach out.  
+I'm Greg. I work in Product @ GitHub :octocat: and am passionate about Developer Experience and learning. I always welcome interesting conversation and enjoy making new connections, so I'd love for you to reach out.  
 
 💬 Ask me about: developer experience, product management, the New Orleans Saints
 
