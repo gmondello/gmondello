@@ -6,5 +6,5 @@ I'm Greg. I work in Product @ GitHub :octocat: and am passionate about Developer
 
 📫 You can get in touch with me on [linkedin](http://linkedin.com/in/gregmondello) 
 
-⚡ Fun fact: I recently lived in Argentina for a few years where I learned spanish and played a lot of futbol. Together with my wife, we have three kids 👦🏼👦🏾👧🏼 and three dogs 🐕‍🦺🦮🐶  😄
+⚡ Fun fact: I recently lived in Argentina for a few years where I learned spanish and played a lot of futbol. My wife and I have three kids 👦🏼👦🏾👧🏼 and three dogs 🐕‍🦺🦮🐶  😄
 
