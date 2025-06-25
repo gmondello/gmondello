@@ -1,9 +1,3 @@
-### Hi there 👋
+Product @ GitHub :octocat: 
 
-I'm Greg. 
-
-I work in Product @ GitHub :octocat: 
-
-I am passionate about helping people and learning.  
-
-Get in touch on [linkedin](http://linkedin.com/in/gregmondello).
+Just trying to leave things better than I found them.
