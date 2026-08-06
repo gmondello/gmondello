@@ -1,6 +1,6 @@
 Product @ Docker 🐳
 
-Founder @ use-local.com
+Founder @ [use-local.com](https://use-local.com)
 
 Previously GitHub
 
